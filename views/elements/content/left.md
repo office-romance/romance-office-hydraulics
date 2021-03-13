@@ -2,11 +2,11 @@
 
 ## Work in progress
 
-- Redefining online discourse around divisive social issues
-- Helping high schoolers discover their version of success
-- Imagining futures for cloud-based personal computing
+- A handmade website for building together
+- Reimagining food delivery to a platform cooperative
+- Designing and building a kitchen
 
 
 ## Team updates
-- We're hiring another product designer! [Email us](mailto:hello@hydraulics.nyc) to apply (or refer a friend).
-- [Sam Taylor](https://tohumankind.com/info) has joined our team.
+- We're looking to take on work in the social sector.
+- Portfolio coming soon.
