@@ -1,14 +1,14 @@
 {
-  "name": "hydraulics",
+  "name": "romance office",
   "version": "1.0.0",
-  "description": "Manhattan Hydraulics website",
+  "description": "Romance Office website",
   "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manhattan-Hydraulics/site.git"
+    "url": "git+https://github.com/office-romance/romance-office-hydraulics.git"
   },
   "author": "",
   "license": "ISC",
