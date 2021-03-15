@@ -1,4 +1,4 @@
 
-A transmedia studio for the built environment.
+A transmedia studio for experiential environments.
 
 [hello@romanceoffice.com](mailto:hello@romanceoffice.com)
